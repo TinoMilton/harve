@@ -1,0 +1,17 @@
+<comentarios>
+   <nome>Fernando</nome>
+   <valor_total>3500</valor_total>
+   <itens>
+      <item>
+        <nome>Computador</nome>
+        <qtde>1</qtde>
+        <valor>2000</valor>
+      </item>
+      <item>
+        <nome>Tablet</nome>
+        <qtde>2</qtde>
+        <valor>750</valor>
+      </item>
+    </items>
+  <data>14/03/2026</data>
+</comentarios>

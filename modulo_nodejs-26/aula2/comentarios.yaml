@@ -1,0 +1,13 @@
+comentarios:
+    nome: Fernando
+    valor_total: 3500
+    items:
+        - item:
+            nome: Computador
+            qtde: 1
+            valor: 2000
+        - item:
+            nome: Tablet
+            qtde: 2
+            valor: 750
+    data: 03/04/2026
